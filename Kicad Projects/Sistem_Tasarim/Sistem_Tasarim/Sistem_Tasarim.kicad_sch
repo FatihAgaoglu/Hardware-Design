@@ -1,0 +1,150 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid b08c6650-0524-487d-b5ee-f478c2437d63)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 201.93 120.015) (size 74.295 33.655) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 03b53ab8-835e-44c8-9faf-938ffe9d1524)
+    (property "Sheetname" "Distance and Photo Electric Switch" (at 201.93 119.3034 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Distance and Photo Electric Switch.kicad_sch" (at 201.93 154.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Sistem_Tasarim"
+        (path "/b08c6650-0524-487d-b5ee-f478c2437d63" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 106.045 69.215) (size 76.2 85.09) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1b001905-4c18-419f-b3ab-b2f85d568aed)
+    (property "Sheetname" "MCU" (at 106.045 68.5034 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 106.045 154.8896 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Sistem_Tasarim"
+        (path "/b08c6650-0524-487d-b5ee-f478c2437d63" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 24.765 118.11) (size 65.405 36.195) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4061099d-7f9b-4c7c-9c06-d115fcd6ff81)
+    (property "Sheetname" "ADC_Channels" (at 24.765 117.3984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ADC_Channels.kicad_sch" (at 24.765 154.8896 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Sistem_Tasarim"
+        (path "/b08c6650-0524-487d-b5ee-f478c2437d63" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 201.295 20.955) (size 74.93 32.385) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7ec39634-08ae-4936-9f1f-7f2f5d1ea4db)
+    (property "Sheetname" "Buzzer and Relay" (at 201.295 20.2434 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Buzzer and Relay.kicad_sch" (at 201.295 53.9246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Sistem_Tasarim"
+        (path "/b08c6650-0524-487d-b5ee-f478c2437d63" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 104.775 21.59) (size 75.565 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bb8d4dc9-368a-4247-97f6-99ffae57b032)
+    (property "Sheetname" "Power Supply" (at 104.775 20.8784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power Supply.kicad_sch" (at 104.775 57.7346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Sistem_Tasarim"
+        (path "/b08c6650-0524-487d-b5ee-f478c2437d63" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 201.93 68.58) (size 74.295 34.925) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d1bf00c1-043c-456d-983b-3c861a22f61d)
+    (property "Sheetname" "Oled Display and Bluettoth Sensor" (at 201.93 67.8684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Oled Display and Bluettoth Sensor.kicad_sch" (at 201.93 104.0896 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Sistem_Tasarim"
+        (path "/b08c6650-0524-487d-b5ee-f478c2437d63" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 24.13 66.675) (size 64.77 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid dd67ac29-b26b-4cc6-984d-41c73227f070)
+    (property "Sheetname" "User Led and Interrupts" (at 24.13 65.9634 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "User Led and Interrupts.kicad_sch" (at 24.13 104.0896 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Sistem_Tasarim"
+        (path "/b08c6650-0524-487d-b5ee-f478c2437d63" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 24.13 20.955) (size 65.405 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid feb2b23b-b164-4465-81f7-3b58d16e1c5c)
+    (property "Sheetname" "DC Engine and Servo Engine" (at 24.13 20.2434 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "DC Motor and Servo Motor.kicad_sch" (at 24.13 52.0196 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Sistem_Tasarim"
+        (path "/b08c6650-0524-487d-b5ee-f478c2437d63" (page "6"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
