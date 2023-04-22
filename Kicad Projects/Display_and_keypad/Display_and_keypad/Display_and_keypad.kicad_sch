@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e87ea105-9dbf-4127-a8db-7573510866ae)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 53.34 49.53) (size 72.39 34.29) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00006367c7b5)
+    (property "Sheetname" "Display" (at 53.34 48.8184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Display.kicad_sch" (at 53.34 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Display_and_keypad"
+        (path "/e87ea105-9dbf-4127-a8db-7573510866ae" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 49.53) (size 72.39 34.29) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 00000000-0000-0000-0000-00006367c832)
+    (property "Sheetname" "Keypad" (at 152.4 48.8184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Keypad.kicad_sch" (at 152.4 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Display_and_keypad"
+        (path "/e87ea105-9dbf-4127-a8db-7573510866ae" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

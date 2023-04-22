@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Display_and_keypad-rescue)(type Legacy)(uri ${KIPRJMOD}/Display_and_keypad-rescue.lib)(options "")(descr ""))
+)
