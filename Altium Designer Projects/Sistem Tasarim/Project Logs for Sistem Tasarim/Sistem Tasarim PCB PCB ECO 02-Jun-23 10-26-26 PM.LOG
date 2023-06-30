@@ -1,0 +1,11 @@
+Added Component: Designator=U?(Joystick)
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Member To Class: ClassName=ADC Channels Member=Component U? Joystick
+Added Room: Name=ADC Channels
+Added Room: Name=Buzzer and Relay
+Added Room: Name=DC Engine and Servo Engine
+Added Room: Name=Distance and PhotoElectric
+Added Room: Name=Leds and Buttons
+Added Room: Name=MCU
+Added Room: Name=Oled Display and Bluetooth Sensor
+Added Room: Name=Power_Supply

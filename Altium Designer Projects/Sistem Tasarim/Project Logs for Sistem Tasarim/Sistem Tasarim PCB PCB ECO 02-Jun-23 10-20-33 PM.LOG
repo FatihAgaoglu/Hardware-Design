@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=K1 Old Footprint=PNSC-TX2-5V_V New Footprint=PNSC-TX2-5V_V
+Change Physical Footprint: Designator=L1 Old Footprint=FP-SRR1280-MFG New Footprint=FP-SRR1280-MFG
+Change Physical Footprint: Designator=LED5 Old Footprint=Type 5mm New Footprint=Type 5mm
+Change Physical Footprint: Designator=LS1 Old Footprint=KINGS-KPEG242-2 New Footprint=KINGS-KPEG242-2
+Change Physical Footprint: Designator=U1 Old Footprint=KTT0005B_L New Footprint=KTT0005B_L

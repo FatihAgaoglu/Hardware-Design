@@ -1,0 +1,5 @@
+Added Component: Designator=U?(Joystick)
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=VDDA Pin=U?-2
+Added Pin To Net: NetName=X_axis Pin=U?-3
+Added Pin To Net: NetName=Y_axis Pin=U?-4

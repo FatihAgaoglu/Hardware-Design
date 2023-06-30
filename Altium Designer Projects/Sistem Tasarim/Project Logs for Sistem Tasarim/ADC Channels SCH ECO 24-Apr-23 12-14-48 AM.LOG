@@ -1,0 +1,2 @@
+Remove Pin=U6-1 From Net=USART6_TX
+Remove Pin=U6-2 From Net=USART6_RX
