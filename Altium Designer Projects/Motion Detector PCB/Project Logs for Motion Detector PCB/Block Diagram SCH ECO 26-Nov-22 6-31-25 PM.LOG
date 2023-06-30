@@ -1,0 +1,4 @@
+Remove Pin=RL1-2 From Net=LIGHT_1_VCC
+Remove Pin=RL1-3 From Net=LIGHT_1_GND
+Remove Pin=RL2-2 From Net=LIGHT_2_VCC
+Remove Pin=RL2-3 From Net=LIGHT_2_GND

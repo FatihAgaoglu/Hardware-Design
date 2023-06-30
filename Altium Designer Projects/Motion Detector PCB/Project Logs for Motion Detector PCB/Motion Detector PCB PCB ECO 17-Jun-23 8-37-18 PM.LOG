@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PIR_DETECTOR Pin=J8-5
+Removed Pin From Net: NetName=PIR_DETECTOR Pin=U8-8
+Added Pin To Net: NetName=PIR_DETECT Pin=J8-5
+Added Pin To Net: NetName=PIR_DETECT Pin=U8-8
+Added Net: Name=PIR_DETECT
