@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=NetR5_1 Pin=U5-41
-Removed Pin From Net: NetName=NetR4_1 Pin=U5-45
-Added Pin To Net: NetName=NetR5_1 Pin=U5-40
-Added Pin To Net: NetName=NetR4_1 Pin=U5-41
-Added Room: Name=Power Management
-Added Room: Name=Sensor Modules
-Added Room: Name=WIFI Module

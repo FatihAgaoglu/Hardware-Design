@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=3V3DC_S Pin=J7-1
-Removed Pin From Net: NetName=GND_S Pin=J7-2
-Added Pin To Net: NetName=3V3DC Pin=J7-1
-Added Pin To Net: NetName=GND Pin=J7-2
-Added Room: Name=MicroControllers
-Added Room: Name=Power Management
-Added Room: Name=Sensor Modules
-Added Room: Name=WIFI Module
