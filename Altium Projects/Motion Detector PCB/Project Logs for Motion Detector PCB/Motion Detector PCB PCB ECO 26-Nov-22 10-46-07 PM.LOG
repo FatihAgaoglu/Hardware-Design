@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=GND_S Pin=R26-2
-Added Pin To Net: NetName=GND_S Pin=R27-2
-Added Room: Name=MicroControllers
-Added Room: Name=Power Management
-Added Room: Name=Sensor Board
-Added Room: Name=Sensor Modules
-Added Room: Name=WIFI Module
